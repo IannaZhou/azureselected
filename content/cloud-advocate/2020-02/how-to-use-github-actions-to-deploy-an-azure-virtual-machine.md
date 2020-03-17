@@ -13,11 +13,11 @@ reviewer: ''
 pub_date: 
 ---
 
-# How to use GitHub Actions to deploy a virtual machine
+# 如何在虚拟机上部署 GitHub Actions
 
 <ContentMeta />
 
-Hands up if you are used to deploy servers either by unpacking them from a box or using a graphical user interface (GUI)? Yip, that’s me and it's where I’ve built my career. However, over the last few years I’ve been getting more and more used to deploying servers and their supporting resources via code. Either using something like PowerShell or Azure CLI, or sometimes a combination of both. 
+在部署服务器时，人们要么将其从安装包中解压，要么使用 GUI 进行操作，你也是其中的一员吗？我在事业起步时就是这么操作的。但是，在过去的几年当中，我逐渐适应了通过代码来部署服务器及其相关资源。通过使用PowerShell 或者 Azure CLI，或者两者结合都能达成。
 
 I’ve also taught myself how to use tools such as Visual Studio Code, Git, GitHub or even Azure DevOps to get the task done.  It’s not been an easy journey but what it has been is fun and a challenge.
 
